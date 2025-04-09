@@ -1,6 +1,5 @@
 # 💫 About Me:
-Estudante de Informática no Instituto Brasilio Flores de Azevedo, aprendendo programação Front-end e Back-end<br>
-
+Estudante de Análise e Desenvolvimento de Sistemas na UNIP. Explorando o universo da programação com foco em desenvolvimento Front-end e Back-end.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r3inaldo_barbosa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldo-barbosa-2a2327261/) 
